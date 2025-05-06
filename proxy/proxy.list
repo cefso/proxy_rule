@@ -1,3 +1,5 @@
 # NAME: proxy
 # AUTHOR: cefso
-DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,prometheus.io
+DOMAIN-SUFFIX,kubernetes.io
+DOMAIN-SUFFIX,discord.com
