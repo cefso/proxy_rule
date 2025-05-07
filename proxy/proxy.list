@@ -2,4 +2,4 @@
 # AUTHOR: cefso
 DOMAIN-SUFFIX,prometheus.io
 DOMAIN-SUFFIX,kubernetes.io
-DOMAIN-SUFFIX,discord.com
+DOMAIN-KEYWORD,discord
