@@ -9,4 +9,3 @@ DOMAIN,alertmanager.cefso.online
 DOMAIN,grafana.cefso.online
 DOMAIN,wiki.cefso.online
 DOMAIN,keep.cefso.online
-IP-CIDR,192.168.4.210
