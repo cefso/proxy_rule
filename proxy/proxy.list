@@ -4,3 +4,4 @@ DOMAIN-SUFFIX,prometheus.io
 DOMAIN-SUFFIX,kubernetes.io
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-KEYWORD,discord
+DOMAIN-KEYWORD,brew
