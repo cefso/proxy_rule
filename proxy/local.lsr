@@ -1,0 +1,11 @@
+# NAME: Local
+# AUTHOR: cefso
+DOMAIN,st.cefso.online
+DOMAIN,prometheus.cefso.online
+DOMAIN,argorollouts.cefso.online
+DOMAIN,argocd.cefso.online
+DOMAIN,dashy.cefso.online
+DOMAIN,alertmanager.cefso.online
+DOMAIN,grafana.cefso.online
+DOMAIN,wiki.cefso.online
+DOMAIN,keep.cefso.online

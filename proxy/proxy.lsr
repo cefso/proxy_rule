@@ -1,0 +1,14 @@
+# NAME: proxy
+# AUTHOR: cefso
+DOMAIN-SUFFIX,prometheus.io
+DOMAIN-SUFFIX,kubernetes.io
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,react.dev
+DOMAIN-SUFFIX,notion.so
+DOMAIN-KEYWORD,discord
+DOMAIN-KEYWORD,brew
+DOMAIN-KEYWORD,steampowered
+DOMAIN-KEYWORD,nintendo
+DOMAIN-KEYWORD,docker
